@@ -1,0 +1,26 @@
+{
+  "name": "MRIDUDAS Offline Library",
+  "short_name": "MRIDUDAS",
+  "description": "Spiritual Knowledge Library - Books, Quotes, Shlokas, Notes",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fdfbf7",
+  "theme_color": "#c8872e",
+  "orientation": "portrait",
+  "categories": ["education", "books", "reference", "spiritual"],
+  "lang": "en",
+  "icons": [
+    {
+      "src": "icons/192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
